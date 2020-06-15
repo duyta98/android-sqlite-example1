@@ -1,4 +1,4 @@
-package net.xuanthulab.sqlitetutorial;
+package net.xuanthulab.SQLite;
 
 import org.junit.Test;
 

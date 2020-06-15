@@ -1,4 +1,4 @@
-package net.xuanthulab.sqlitetutorial;
+package net.xuanthulab.SQLite;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
